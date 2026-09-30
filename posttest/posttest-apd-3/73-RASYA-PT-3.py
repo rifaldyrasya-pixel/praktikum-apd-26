@@ -5,7 +5,7 @@ print("========================================")
 username_input = input("Masukkan Username (Nama Panggilan) : ")
 password_input = input("Masukkan Password (2 Digit NIM)    : ")
 
-if username_input == "73" and password_input == "73":
+if username_input == "Rasya" and password_input == "73":
     print("\n[+] Login Berhasil! Selamat datang di Sistem Top Up.")
     print("----------------------------------------")
     
