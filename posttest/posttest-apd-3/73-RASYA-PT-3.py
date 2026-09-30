@@ -11,7 +11,7 @@ if username_input == "Rasya" and password_input == "73":
     
     id_player = input("Masukkan ID Player                  : ")
     
-    # Pilih Game
+
     print("\nPilih Game:")
     print("1. Genshin Impact")
     print("2. Minecraft")
